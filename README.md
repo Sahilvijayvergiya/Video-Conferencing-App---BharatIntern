@@ -1,4 +1,4 @@
-# Video-Conferencing-App---BharatIntern
+# Video-Conferencing-App
 ## OverView
 This application provides video conferencing functionality. Users can create the room, share details with his friends and communicate.
 
